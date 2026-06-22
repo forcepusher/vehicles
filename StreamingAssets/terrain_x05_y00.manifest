@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.4.0f1
+CRC: 410904624
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83ebf13675bcdc5c4d42fc935743eb72
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: d99326e414537f318fb2bd6e0ee8e731
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3fbb41cdc2e3187c1b45f1d89062d2d5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Source/Environment/Terrain/Tiles/TerrainProject Mesh Output_x05_y00.obj
+- Assets/Source/Environment/Terrain/Tiles/TerrainProject Bitmap Output 4096_x05_y00.png
+Dependencies: []
