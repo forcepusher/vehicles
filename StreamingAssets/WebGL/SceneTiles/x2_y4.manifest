@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.4.0f1
+CRC: 453721798
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c709818ac60a44a91e3d8f3dd1aac221
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1b6cb1c69f28bf52ca8974479c9edf0e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: bd8d81161bdd817d997a41b20a06b7a7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Source/Scenes/Tiles/x2_y4.unity
+Dependencies: []
